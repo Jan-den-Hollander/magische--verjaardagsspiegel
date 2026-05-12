@@ -819,7 +819,7 @@ export default function MagischeSpiegel() {
             alignItems:'center', gap:5, position:'relative', zIndex:5 }}
         >
           <button onClick={handleReset} style={S.btnNext}>
-            ✨ Volgend kind ✨
+            ✨ Tot Volgend Jaar ✨
           </button>
           <p style={{ margin:0, fontSize:10, color:'rgba(245,230,66,0.26)', fontStyle:'italic' }}>
             Tik hier als een ander kind aan de beurt is
