@@ -289,7 +289,7 @@ function SetupOverlay({ step, name, setName, birthInput, setBirthInput,
         textShadow:'0 0 10px rgba(245,230,66,0.48)',
       }}>
         {isName
-          ? 'Ik ben de Magische Spiegel. Hoe heet jij?'
+          ? 'Ik ben de Magische Verjaardags Spiegel. Hoe heet jij?'
           : `Wanneer ben jij geboren, ${name}?`}
       </p>
 
