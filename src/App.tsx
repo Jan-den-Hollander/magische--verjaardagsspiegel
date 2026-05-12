@@ -822,7 +822,7 @@ export default function MagischeSpiegel() {
             ✨ Tot Volgend Jaar ✨
           </button>
           <p style={{ margin:0, fontSize:10, color:'rgba(245,230,66,0.26)', fontStyle:'italic' }}>
-            Tik hier als een ander kind aan de beurt is
+            Tik hier om opnieuw te beginnen 
           </p>
         </motion.div>
       )}
