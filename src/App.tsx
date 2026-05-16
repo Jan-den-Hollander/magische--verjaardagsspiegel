@@ -4,6 +4,22 @@
  * Wijzigingen v10:
  *  - Spiegel iets lager zodat bovenkant zichtbaar is onder tekstballon
  *  - Vertaalvlaggen verwijderd uit tekstballon (alleen 🔊 knop blijft)
+ <!--
+================================================================================
+  RivelazioneVerde — Strumento di Rilevamento della Vegetazione
+  Versione 1.0 — 2025
+================================================================================
+  Copyright (c) 2025 Jan den Hollander 
+  Tutti i diritti riservati.
+
+  Quest'opera è protetta dal diritto d'autore (Legge 633/1941, Italia;
+  Auteurswet 1912, Paesi Bassi) e dalla Convenzione di Berna.
+  È vietata la riproduzione, distribuzione o creazione di opere derivate
+  senza esplicito consenso scritto dell'autore.
+
+  Contact: jandenhollander@duck.com 
+================================================================================
+-->
  */
 import { useState, useRef, useEffect } from 'react';
 import { Key } from 'lucide-react';
